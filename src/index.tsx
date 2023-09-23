@@ -1,5 +1,5 @@
 import ReactDOM from 'react-dom';
 import 'bulma/css/bulma.css';
-import { App } from './App';
+import { Appp } from './Appp';
 
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(<Appp />, document.getElementById('root'));
